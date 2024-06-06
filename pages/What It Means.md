@@ -4,7 +4,7 @@ permalink: /what-it-means/
 variant: tiptap
 description: ""
 ---
-<h3>2024 Formula 1 Singapore Grand Prix  | Race Officials' Need-to-Know's</h3>
+<h3>2024 Formula 1 Singapore Grand Prix | Race Officials' Need-to-Know's</h3>
 <h4>The Race Weekend</h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -83,4 +83,5 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kai_Li_Kwan__Open_Government_Products___2024_Formula_1_Singapore_Grand_Prix_Circuit_Park_Map.png">
 </div>
-<p></p>
+<p><em>Notable Change(s) to the Circuit Layout: Since the 2023 Grand Prix, the Marina Bay Street Circuit has seen a New Straight between Turns 15 and 16 due to the Absence of the Marina Bay Grandstand; the Circuit is expected to revert to its Previous Layout to go around the Grandstand once its Reconstruction is complete in the Coming Years.</em>
+</p>
