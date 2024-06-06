@@ -22,12 +22,6 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - textcards:
       title: Hakuba
       subtitle: Out of Office
@@ -47,4 +41,31 @@ sections:
           description: For Uncrowded, Spacious & Winding Runs
           linktext: Where
           url: https://www.google.com/maps/place/Hakuba+Cortina+Ski+Resort/@36.7770681,137.8825704,17z/data=!4m16!1m9!3m8!1s0x5ff633664a2a1259:0x5051f369ab91dc28!2sHakuba+Cortina+Ski+Resort!8m2!3d36.7770681!4d137.8851453!9m1!1b1!16s%2Fg%2F120n82k2!3m5!1s0x5ff633664a2a1259:0x5051f369ab91dc28!8m2!3d36.7770681!4d137.8851453!16s%2Fg%2F120n82k2?entry=ttu
+  - announcements:
+      title: Kai's Bites
+      id: announcements
+      subtitle: Out of Office
+      announcement_items:
+        - title: Frankie & Fern's
+          date: 01 June 2024
+          announcement: "In Today's Episode of #InstagramMadeMeDoIt, I visited Frankie &
+            Fern's cosy spot perched at the top of Holland Road Shopping Centre
+            — and I absolutely loved it!"
+          link_text: Where
+          link_url: https://www.google.com/maps/place/Frankie+%26+Fern's/@1.3107923,103.7930644,17z/data=!4m16!1m9!3m8!1s0x31da1b029cc3e39b:0x80bc1ef39dd70739!2sFrankie+%26+Fern's!8m2!3d1.3107923!4d103.7956393!9m1!1b1!16s%2Fg%2F11vrfdczh5!3m5!1s0x31da1b029cc3e39b:0x80bc1ef39dd70739!8m2!3d1.3107923!4d103.7956393!16s%2Fg%2F11vrfdczh5?entry=ttu
+        - title: Kimchi Dining
+          date: 17 April 2024
+          announcement: When Koreans take photos, they often say "Kimchi~" — and I
+            understand why now, because Kimchi Dining brought a smile to my face
+            with their expensive-feeling yet soul-warming food.
+          link_text: Where
+          link_url: https://www.google.com/maps/place/Kimchi+Dining+%7C+Korean+Restaurant+Singapore/@1.3007562,103.837154,17z/data=!3m1!5s0x31da1996d9921931:0x87597934377c2063!4m16!1m9!3m8!1s0x31da1968f5a3164b:0x5f622c92e3b23247!2sKimchi+Dining+%7C+Korean+Restaurant+Singapore!8m2!3d1.3007562!4d103.8397289!9m1!1b1!16s%2Fg%2F11srql8fnw!3m5!1s0x31da1968f5a3164b:0x5f622c92e3b23247!8m2!3d1.3007562!4d103.8397289!16s%2Fg%2F11srql8fnw?entry=ttu
+        - title: Dough
+          date: 13 April 2024
+          announcement: "\"Dough, a Café, a Lovely Café\" — cue Kai's Version of the
+            Classic Sound of Music Tune. On this Fateful Day, I ventured out to
+            Chijmes to soak in the Colonial Architecture and to be blown away by
+            the Creative Eats at this Unassuming Café."
+          link_text: Where
+          link_url: https://www.google.com/maps/place/Dough/@1.2950446,103.8491611,17z/data=!3m1!5s0x31da19a387304da7:0x332ac6cd16a65f40!4m16!1m9!3m8!1s0x31da1945e522cded:0xcc15c10341c689d8!2sDough!8m2!3d1.2950446!4d103.851736!9m1!1b1!16s%2Fg%2F11ppp8jwbw!3m5!1s0x31da1945e522cded:0xcc15c10341c689d8!8m2!3d1.2950446!4d103.851736!16s%2Fg%2F11ppp8jwbw?entry=ttu
 ---
