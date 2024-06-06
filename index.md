@@ -29,10 +29,11 @@ sections:
       button: Button text
       url: /faq/
   - textcards:
-      title: Spotlight on Hakuba
+      title: Hakuba
       subtitle: Out of Office
       id: textcards
-      description: "A Guide to Where to Find #JaPow, from a Seasoned Singaporean"
+      description: A Singaporean's Guide to the Home of the XVIII Olympic Winter Games
+        located in Nagano, Japan
       cards:
         - title: Iwatake
           description: For City Bakery, the Most Intoxicating Views & Cosplayers
