@@ -4,7 +4,7 @@ title: Kai Li Kwan
 description: A Website Built by Open Government Products, Created with Isomer
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Kai Li Kwan
