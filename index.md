@@ -12,16 +12,6 @@ sections:
       background: /images/Visual___Mother_Nature__d__Feb__19_.jpg
       button: LinkedIn
       url: linkedin.com/in/kailikwan
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - textcards:
       title: Hakuba
       subtitle: Out of Office
