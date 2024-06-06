@@ -54,8 +54,8 @@ sections:
           date: 13 April 2024
           announcement: "\"Dough, a Café, a Lovely Café\" — cue Kai's Version of the
             Classic Sound of Music Tune. On this Fateful Day, I ventured out to
-            Chijmes to soak in the Colonial Architecture and to be blown away by
-            the Creative Eats at this Unassuming Café."
+            Chijmes to soak in the Architecture and to be blown away by the Eats
+            at this Unassuming Café."
           link_text: Where
           link_url: https://www.google.com/maps/place/Dough/@1.2950446,103.8491611,17z/data=!3m1!5s0x31da19a387304da7:0x332ac6cd16a65f40!4m16!1m9!3m8!1s0x31da1945e522cded:0xcc15c10341c689d8!2sDough!8m2!3d1.2950446!4d103.851736!9m1!1b1!16s%2Fg%2F11ppp8jwbw!3m5!1s0x31da1945e522cded:0xcc15c10341c689d8!8m2!3d1.2950446!4d103.851736!16s%2Fg%2F11ppp8jwbw?entry=ttu
 ---
