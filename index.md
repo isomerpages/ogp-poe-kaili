@@ -36,14 +36,14 @@ sections:
       cards:
         - title: Iwatake
           description: For City Bakery, the Most Intoxicating Views & Cosplayers
-          linktext: Where?
-          url: https://www.google.com/maps/place/Hakuba+Iwatake+Mountain+Resort+%26+Snow+Field/@36.7158815,137.8536411,17z/data=!3m1!4b1!4m9!3m8!1s0x5ff7cd9521ffae6d:0xd4f363431e1b52e1!5m2!4m1!1i2!8m2!3d36.7158815!4d137.856216!16s%2Fg%2F1203ls1v1?entry=ttu
+          linktext: Where
+          url: https://www.google.com/maps/place/Hakuba+Iwatake+Mountain+Resort/@36.7168942,137.8562573,17z/data=!4m6!3m5!1s0x5ff7cdcf766e54cb:0x4ec9a7c7f2abf1e8!8m2!3d36.7168942!4d137.8588322!16s%2Fg%2F11fcqs__25?entry=ttu
         - title: Goryu 47
           description: For Beginner, Intermediate & Advanced Parks
-          linktext: Where?
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+          linktext: Where
+          url: https://www.google.com/maps/place/Hakuba+Goryu+Snow+Resort/@36.662937,137.836664,17z/data=!4m16!1m9!3m8!1s0x5ff7d052042f8da3:0xf19888e37943ae34!2sHakuba+Goryu+Snow+Resort!8m2!3d36.662937!4d137.836664!9m1!1b1!16s%2Fg%2F1239cspl!3m5!1s0x5ff7d052042f8da3:0xf19888e37943ae34!8m2!3d36.662937!4d137.836664!16s%2Fg%2F1239cspl?entry=ttu
+        - title: Cortina
+          description: For Uncrowded, Spacious & Winding Runs
+          linktext: Where
+          url: https://www.google.com/maps/place/Hakuba+Cortina+Ski+Resort/@36.7770681,137.8825704,17z/data=!4m16!1m9!3m8!1s0x5ff633664a2a1259:0x5051f369ab91dc28!2sHakuba+Cortina+Ski+Resort!8m2!3d36.7770681!4d137.8851453!9m1!1b1!16s%2Fg%2F120n82k2!3m5!1s0x5ff633664a2a1259:0x5051f369ab91dc28!8m2!3d36.7770681!4d137.8851453!16s%2Fg%2F120n82k2?entry=ttu
 ---
