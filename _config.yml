@@ -1,6 +1,6 @@
 title: Kai Li Kwan
 url: https://kailikwan.open.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/Isomer/isomer_icon.ico
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: A Website Built by Open Government Products, Created with Isomer
+description: A Website Created with Isomer, Built by Open Government Products
 permalink: none
 baseurl: ""
 exclude:
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.dtplfr1uxwaf5.amplifyapp.com
 prod: https://master.duvpf51sr2wmq.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Isomer/isomer_logo.svg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
