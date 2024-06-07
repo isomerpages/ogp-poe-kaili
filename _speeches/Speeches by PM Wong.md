@@ -4,18 +4,24 @@ permalink: /speeches-by-pm-wong/
 variant: tiptap
 description: ""
 ---
-<h3>Master List of Speeches by PM Wong</h3>
-<h4>Jun 2024</h4>
+<h4>June</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://youtu.be/6K0l4KUPtI0" rel="noopener noreferrer nofollow" target="_blank">At IPEF Clean Economy Investor Forum</a>
+<p><a href="https://youtu.be/6K0l4KUPtI0" rel="noopener noreferrer nofollow" target="_blank">At Indo-Pacific Economic Framework (IPEF) Clean Economy Investor Forum</a>
 </p>
 </li>
 </ul>
-<h4>May 2024</h4>
+<h4>May</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://youtu.be/KTCJEZXycJk" rel="noopener noreferrer nofollow" target="_blank">At Launch of National Family Festival 2024</a>
+<p><a href="https://youtu.be/KTCJEZXycJk" rel="noopener noreferrer nofollow" target="_blank">At Launch of 2024 National Family Festival</a>
+</p>
+</li>
+</ul>
+<h4>April</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://youtu.be/pR8HeMyJMmk" rel="noopener noreferrer nofollow" target="_blank">At Opening of Temasek's Office in Paris, France</a>
 </p>
 </li>
 </ul>
