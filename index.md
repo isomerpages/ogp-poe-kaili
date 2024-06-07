@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Kai Li Kwan
       subtitle: Curious Chameleon | Tech-Savvy Generalist | Ex-Googler
-      background: /images/OPG_POE_KLK_HP_HeroBanner.jpg
+      background: /images/OPG_POE_KLK/OPG_POE_KLK_HP_HeroBanner.jpg
       button: Connect with Me on LinkedIn
       url: https://www.linkedin.com/in/kailikwan
       variant: center
