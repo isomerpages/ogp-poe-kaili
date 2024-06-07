@@ -9,9 +9,10 @@ sections:
   - hero:
       title: Kai Li Kwan
       subtitle: Curious Chameleon | Tech-Savvy Generalist | Ex-Googler
-      background: /images/Visual___Mother_Nature__d__Feb__19_.jpg
-      button: LinkedIn
+      background: /images/OPG_POE_KLK_HP_HeroBanner.jpg
+      button: Connect with Me on LinkedIn
       url: https://www.linkedin.com/in/kailikwan
+      variant: center
   - textcards:
       title: Hakuba
       subtitle: Out of Office
