@@ -3,18 +3,18 @@ url: https://kailikwan.open.gov.sg
 favicon: /images/Isomer/isomer_icon.ico
 colors:
   primary-color: "#4285f4"
-  secondary-color: "#ea4335"
+  secondary-color: "#4285f4"
   media-colors:
     - title: media-color-one
-      color: "#fbbc04"
+      color: "#ea4335"
     - title: media-color-two
-      color: "#34a853"
+      color: "#fbbc04"
     - title: media-color-three
-      color: "#fbbc04"
-    - title: media-color-four
       color: "#34a853"
+    - title: media-color-four
+      color: "#ffffff"
     - title: media-color-five
-      color: "#fbbc04"
+      color: "#ffffff"
 description: A Website Created with Isomer, Built by Open Government Products
 permalink: none
 baseurl: ""
