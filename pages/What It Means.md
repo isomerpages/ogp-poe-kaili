@@ -6,6 +6,15 @@ description: What It Means to Kai Li Kwan | 2024 Formula 1 Singapore Grand Prix
 image: /images/OPG_POE_KLK_P_WhatItMeans.png
 ---
 <h3>2024 Formula 1 Singapore Grand Prix | Race Officials' Need-to-Know's</h3>
+<h4>The Circuit</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OPG_POE_KLK_P_WhatItMeans.png">
+</div>
+<p><strong>Notable Change(s) to the Circuit:</strong> Since the 2023 Grand
+Prix, the Marina Bay Street Circuit has seen a New Straight between Turns
+15 and 16 due to the Absence of the Grandstand at The Float @ Marina Bay;
+the Circuit is expected to revert to its Previous Layout to go around the
+Grandstand once its Reconstruction is Complete.</p>
 <h4>The Race Weekend</h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -17,21 +26,22 @@ image: /images/OPG_POE_KLK_P_WhatItMeans.png
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Racing Events</p>
+<p>Live Sessions</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Sep 20th, Fri</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Saturday</p>
+<p>Sep 21st, Sat</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sunday</p>
+<p>Sep 22nd, Sun</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Formula 1</p>
+<p><strong>Formula 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Free Practice #01</p>
@@ -47,16 +57,16 @@ image: /images/OPG_POE_KLK_P_WhatItMeans.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>F1 Academy</p>
-<p></p>
+<p><strong>F1 Academy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Practice #01</p>
-<p>Practice #02 (KIV)</p>
-<p>Qualifying (KIV; Either-Or)</p>
+<p>Practice #02 (TBC)</p>
+<p>Qualifying (TBC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Qualifying (KIV; Either-Or)</p>
+<p>Qualifying (TBC)</p>
 <p>Race #01</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,13 +75,14 @@ image: /images/OPG_POE_KLK_P_WhatItMeans.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Porsche Carrera Cup Asia</p>
+<p><strong>Porsche Carrera Cup Asia</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Practice #01 (KIV)</p>
+<p>Practice #01 (TBC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Qualifying (KIV)</p>
+<p>Qualifying (TBC)</p>
 <p>Race #01</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,9 +91,4 @@ image: /images/OPG_POE_KLK_P_WhatItMeans.png
 </tr>
 </tbody>
 </table>
-<h4>The Circuit</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kai_Li_Kwan__Open_Government_Products___2024_Formula_1_Singapore_Grand_Prix_Circuit_Park_Map.png">
-</div>
-<p><em>Notable Change(s) to the Circuit Layout: Since the 2023 Grand Prix, the Marina Bay Street Circuit has seen a New Straight between Turns 15 and 16 due to the Absence of the Marina Bay Grandstand; the Circuit is expected to revert to its Previous Layout to go around the Grandstand once its Reconstruction is complete in the Coming Years.</em>
-</p>
+<p></p>
