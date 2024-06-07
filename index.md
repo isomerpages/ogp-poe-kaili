@@ -11,7 +11,7 @@ sections:
       subtitle: Curious Chameleon | Tech-Savvy Generalist | Ex-Googler
       background: /images/Visual___Mother_Nature__d__Feb__19_.jpg
       button: LinkedIn
-      url: linkedin.com/in/kailikwan
+      url: https://www.linkedin.com/in/kailikwan
   - textcards:
       title: Hakuba
       subtitle: Out of Office
