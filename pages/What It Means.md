@@ -8,7 +8,7 @@ image: /images/OPG_POE_KLK_P_WhatItMeans.png
 <h3>2024 Formula 1 Singapore Grand Prix | Race Officials' Need-to-Know's</h3>
 <h4>The Circuit</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OPG_POE_KLK_P_WhatItMeans.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OPG_POE_KLK/OPG_POE_KLK_P_WhatItMeans.png">
 </div>
 <p><strong>Notable Change(s) to the Circuit:</strong> Since the 2023 Grand
 Prix, the Marina Bay Street Circuit has seen a New Straight between Turns
