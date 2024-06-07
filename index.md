@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Kai Li Kwan
-description: A Website Built by Open Government Products, Created with Isomer
-image: /images/isomer-logo.svg
+description: A Website Created with Isomer, Built by Open Government Products
+image: /images/Isomer/isomer_logo.svg
 permalink: /
 notification: ""
 sections:
